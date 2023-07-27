@@ -1,0 +1,12 @@
+{
+"pages": [
+  {
+    "url": "/pages/about.html",
+    "title": "Sobre"
+  },
+  {
+    "url": "/pages/contact.html",
+    "title": "Contatos"
+  }
+]
+}
